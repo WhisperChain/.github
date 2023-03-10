@@ -1,12 +1,26 @@
-## Hi there 👋
+# Whisper Chain
+## About the app
+<p>Experience the thrill of chain mutations with our game, originally developed as part of the ETHIndia Hackathon :computer: 
+We've transformed it into a fun social experiment! Introducing Whisper Chain, our take on the classic game of Chinese whispers or telephone:telephone_receiver:
+</p>
 
-<!--
 
-**Here are some ideas to get you started:**
+<p>Built on <a href="https://www.lens.xyz">Lens Protocol</a>, the objective of the game is simple: there's no winning or losing. Instead, the goal is to observe how much the original seed image changes as it gets passed along the chain. Check how mutations translate into a completely new image over a single chain! 👀
+</p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center" width="100%">
+   <img width="700" alt="WhisperChain" src="https://user-images.githubusercontent.com/100685534/224281970-ed0a2b08-c498-4504-9830-d70d317d1baf.png">
+</p>
+
+## Get Involved!
+The concept is super simple:
+- :herb: Sign in with your Lens profile at https://whisperchain.xyz/
+- 👉 Check out how the community has generated their mutations and generate to add your own to the chain.
+- :sunrise_over_mountains: Recreate the last whisper added to the chain by describing the image as best as you can, in as many words + using our fire filters.
+- :moneybag: Collect the NFTs to show your support; the collect proceeds go to the user who generated it. Don't be left out in the cold - head to https://whisperchain.xyz/ now and get started!
+
+## Repositories
+- [whisper-chain-fe](https://github.com/WhisperChain/whisper-chain-fe): WhisperChain Frontend Repository
+- [whisper-chain-be](https://github.com/WhisperChain/whisper-chain-be): WhisperChain Backend Repository
+
+## Built by the team at [True Sparrow](https://truesparrow.com)
